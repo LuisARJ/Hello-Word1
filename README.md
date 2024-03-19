@@ -3,7 +3,7 @@
 # - Carrera: ITD
 # - Origen: CDMX
 ## - Equipo -
-➡️
+➡️Yo simon
 
 # **SemanaTec**
 
