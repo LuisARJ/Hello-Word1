@@ -114,7 +114,9 @@ done()
 
 #7. link
 
-[freegames](https://www.example.com](https://grantjenks.com/docs/freegames/#)
+-[freegames](https://grantjenks.com/docs/freegames/#)
+-[rockconten](https://rockcontent.com/es/blog/que-son-los-gifs/)
+
 
 #8. Imagenes
 
@@ -128,4 +130,4 @@ done()
 
 #10. Lista de Equipo
 
--[x] Luis Angel Rios Jasso
+- [x] Luis Angel Rios Jasso
