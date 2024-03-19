@@ -7,7 +7,7 @@
 
 # **SemanaTec**
 
-#2. Tipos de letras
+# 2. Tipos de letras
 **bold**
 *Italic*
 >Block
@@ -17,7 +17,7 @@
 >Adios
 
 
-#3. Lista enumerada
+# 3. Lista enumerada
 1. Gorditas de cuidad victoria
 2. Corundas de Morelia
 3. Tortas de la Barda, Tampico
@@ -25,12 +25,12 @@
 5. Tacos Alfaro, Centrito Valle
 6. Chilaquiles TEC - ITEMS
 
-#4. Vista con Viñetas
+# 4. Vista con Viñetas
 - Tacos Gúero 
 - Tacos la Morelense
 - Tacos el Porton
 
-#5. Codigo
+# 5. Codigo
 ```python
 from turtle import *
 
@@ -109,26 +109,26 @@ onkey(lambda: store('shape', rectangle), 'r')
 onkey(lambda: store('shape', triangle), 't')
 done()
 ```
-#6. regla
+# 6. regla
 ---
 
-#7. link
+# 7. link
 
 -[freegames](https://grantjenks.com/docs/freegames/#)
 -[rockconten](https://rockcontent.com/es/blog/que-son-los-gifs/)
 
 
-#8. Imagenes
+# 8. Imagenes
 
 ![Magdalena Contreras](https://imgs.search.brave.com/4Sm352_t4IyC6Krv4jzfAD0nIc7U3XUJlMVpzPN_odY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZXhp/Y29jaXR5LmNkbXgu/Z29iLm14L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE0LzEwL2Zv/cm8tZGUtbGEtY3Vs/dHVyYS1kZS1sYS1t/YWdkYWxlbmEtY29u/dHJlcmFzLmpwZw)
 
-#9. tabla 
+# 9. tabla 
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
-#10. Lista de Equipo
+# 10. Lista de Equipo
 
 - [x] Luis Angel Rios Jasso
 
